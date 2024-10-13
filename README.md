@@ -13,9 +13,9 @@ No repositório irá encontrar um server simples utilizando o app.listen do Expr
 
 ## Recursos
 
--JavaScript
--Node.js
--Expres
+- JavaScript
+- Node.js
+- Expres
 
 ## Instalação
 

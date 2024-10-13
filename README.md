@@ -8,8 +8,8 @@
 
 ## Sobre
 
-Express é um repositorio para iniciar a introdução ao proprio Express.
-No repositorio irá encontrar um server simples utilizando o app.listen do Express
+Express é um repositório para iniciar a introdução ao próprio Express.
+No repositório irá encontrar um server simples utilizando o app.listen do Express
 
 ## Recursos
 
